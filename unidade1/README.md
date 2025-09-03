@@ -100,10 +100,10 @@
     </td>
     <td>
         <h2>MariaDB</h2>
-        <a href="LINK DA ATIVIDADE"><img src="ENDERECO DA IMAGEM" width="250px"></a>
+        <a href="https://www.canva.com/design/DAGxy5kmLQk/O5HF3evMYDbvkygLxd-xfg/edit"><img src="https://d1.awsstatic.com/logos/partners/MariaDB_Logo.d8a208f0a889a8f0f0551b8391a065ea79c54f3a.png" width="250px"></a>
         <h3>Equipe:</h3>
-        <li><a href="LINKEDIN">NOME</a></li>
-        <li><a href="LINKEDIN">NOME</a></li>
+        <li><a href="https://br.linkedin.com/in/ivan-roberto-gomes-alves-dos-santos-254453382">IVAN ROBERTO</a></li>
+        <li><a href="https://br.linkedin.com/in/pedro-roberto-ferreira-de-lima-231454382">PEDRO ROBERTO</a></li>
         <li><a href="LINKEDIN">NOME</a></li>
         <li><a href="LINKEDIN">NOME</a></li>       
     </td>
