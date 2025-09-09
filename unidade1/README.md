@@ -98,13 +98,11 @@ Olá! Estruture esta tabela markdown de forma otimizada e adequada para melhor v
     </td>
     <td>
       <h2>MariaDB</h2>
-      <a href="LINK DA ATIVIDADE"><img src="ENDERECO DA IMAGEM" width="250px"></a>
+      <a href="https://www.canva.com/design/DAGxy5kmLQk/O5HF3evMYDbvkygLxd-xfg/edit?ui=eyJEIjp7IlAiOnsiQiI6ZmFsc2V9fX0"><img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png" width="250px"></a>
       <h3>Equipe:</h3>
-      <li><a href="LINKEDIN">NOME</a></li>
-      <li><a href="LINKEDIN">NOME</a></li>
-      <li><a href="LINKEDIN">NOME</a></li>
-      <li><a href="LINKEDIN">NOME</a></li>
-    </td>
+      <li><a href="https://br.linkedin.com/in/ivan-roberto-gomes-alves-dos-santos-254453382">Ivan Roberto</a></li>
+      <li><a href="https://www.linkedin.com/in/pedro-lima-3013b4382/">Pedro Roberto</a></li>
+   </td>
     <td>
       <h3>Redis</h3>
       <a href="LINK DA ATIVIDADE"><img src="ENDERECO DA IMAGEM" width="250px"></a>
